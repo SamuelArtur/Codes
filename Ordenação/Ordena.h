@@ -1,0 +1,12 @@
+void bubbleSortCre(int *v, int n);
+void bubbleSortDe(int *v, int n);
+void bubbleSortReCre(int *v, int n);
+void selectionSortCre(int *v, int n);
+void selectionSortDe(int *v, int n);
+int buscaBinaria (int *v, int n, int x);
+int buscaBinariaRec(int *v, int n, int x);
+void mergeSortCre(int arr[], int l, int r);
+void mergeSortDe(int arr[], int l, int r);
+void heapSortCre(int* v, int n);
+void heapSortDe(int* v, int n);
+void quickSort(int* v, int left, int right);
