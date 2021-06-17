@@ -15,6 +15,7 @@ int main() {
       k += 20; 
     }
   }
+  printf("Hello there");
   getrusage(RUSAGE_SELF, &usage);
   end = usage.ru_stime;
 
